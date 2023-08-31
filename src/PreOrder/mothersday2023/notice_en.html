@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>EVA SKY SHOP Happy Mother's Day</title>
+	<meta name="keywords" content="EVA Airways,EVA SKY SHOP,Mother's Day,Lucky Draw,Discount" />
+	<meta name="description" content="EVA SKY SHOP Happy Mother's Day,Buy 2 Get 21% Off, Shop and Win Free Air Tickets to Japan !">
+
+	<!--分享-->
+	<meta property="og:title" content="EVA SKY SHOP Happy Mother's Day"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content=""/>
+	<meta property="og:image" content="images/fb_share.jpg"/>
+	<meta property="og:description" content="EVA SKY SHOP Happy Mother's Day,Buy 2 Get 21% Off, Shop and Win Free Air Tickets to Japan !"/>
+	<meta property="og:site_name" content=""/>
+
+	<!-- Bootstrap Core CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="css/full.css" rel="stylesheet">
+	<link href="css/menu_m.css" rel="stylesheet" type="text/css" />
+
+	<!-- wow anim -->
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<script src="js/wow.js"></script>
+	<script>
+		new WOW().init();
+	</script>
+	<script src="js/modernizr.custom.js"></script>
+	<script src="js/classie.js"></script>
+
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+	<div class="wrapper">
+			
+			<div id="p01">
+				<div class="pc">
+					<ul class="menu">
+						<li class="tcen"><a href="notice.html">繁</a> / <a href="">EN</a></li>
+					</ul>
+				</div>
+				
+				<!--menu_m-->
+				<button id="trigger-overlay" type="button" class="menu_m mob">Menu</button> 
+
+				<img src="images/award_e01.jpg" alt="Notification for the Winners" class="pc">
+				<img src="images/award_e01m.jpg" alt="Notification for the Winners" class="mob">
+			</div>
+
+			<div id="p02">
+				<ul class="award">
+					<li>1.L** / C**NGTAN</li>
+					<li>2.C**N / S**MIN</li>
+				</ul>
+				<img src="images/award_e02.png" alt="Winners" class="pc">
+				<img src="images/award_e02m.png" alt="Winners" class="mob">
+			</div>
+			<div id="p03">
+				<img src="images/award_e03.png" alt="2 for Round-trip Tickets to Japsn">
+			</div>
+			<div id="p04">
+				<div class="tips">
+					<ul>
+						<li>The prizewinners shall contact the Product Customer Service as early as possible. To fill out and submit the prize claiming form before June 12, 2023. Failure of submitting the required form by due date shall be deemed as a waiver of prize claiming. The unclaimed prize will be voided.</li>
+						<li>For more details, please browse <a href="index_en.html#p05">Terms and conditions</a> on this campaign or contact the Product Customer Service.<br>
+							Service hours: 9:00 to 12:00 and 14:00 to 17:00, Monday to Friday<br>
+							Hotline: 0800-535-678; 886-3-351-5936<br>
+							E-mail: shopping@evaair.com
+						</li>
+					</ul>
+				</div>
+			</div>
+			<footer>Copyright © 2023 EVA Airways Corp.</footer>
+	</div>
+
+<!--mobile menu-->
+<div class="overlay overlay-slidedown">
+	<button type="button" class="overlay-close">Close</button>
+	<nav>
+		<ul class="menu">
+			<li><a href="notice.html">繁</a> / <a href="">EN</a></li>
+		</ul>
+	</nav>	
+</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.js"></script>
+
+	<script src="js/menu_mobile.js"></script>
+	
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.js"></script>
+
+	<!-- 選單點選後自動收合 -->
+	<script>
+		$(function(){     
+			$('.overlay ul li a').on('click', function(){
+				$('.overlay-close').click();
+			});
+		
+		});
+	</script>
+
+	<!-- 滾動程式 -->
+	<script>
+		$(function(){
+			$('.btn_rule').click(function(){
+				$('> img', this).toggleClass("d-none");
+				$('#collapse').toggleClass("active");
+				setTimeout(function(){
+					$('html,body').animate({scrollTop:$('#p05').offset().top}, 300);
+				},300);
+			});
+		});
+	</script>
+
+</body>
+
+</html>

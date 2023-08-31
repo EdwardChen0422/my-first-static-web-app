@@ -1,0 +1,243 @@
+
+
+@media screen and (max-width: 767px) {
+
+    body {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 18px;
+        margin: 18px 0 8px 0;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MainShowBox {
+        background-image: url('../images/show01_s.jpg');
+        padding: 32px 0 20px 0;
+    }
+
+    .LogoBox {
+        width: 40vw;
+        max-width: 166px;
+        min-width: 152px;
+        margin: 0 auto 20px auto;
+    }
+
+    .MainTitleBox {
+        width: 78%;
+        margin: 0 auto 20px auto;
+    }
+
+    .MainTitleGif {
+        width: 100%;
+        height: auto;
+        max-width: 340px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MenuBox {
+        margin: 302px 0 10px 0;
+    }
+
+    .MenuBox .MenuGridBox {
+        width: 88%;
+        max-width: 540px;
+    }
+
+    .MenuBox .ItemBtn {
+        display: block;
+    }
+
+    .Btn01 {
+        display: none;     
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .CutBgTop {
+        width: 768px;
+        left: calc( 50% - 384px );
+    }
+
+    .CutTitle {
+        font-size: 52px;
+    }
+
+    .Chef {
+        font-size: 16px; 
+        margin: 0 9px 0 0;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .GridBox {
+        width: 84%;
+        max-width: 540px; 
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Bg {
+        background-image: url('../images/c01_bg_r_s.jpg');
+        background-color: #6D402D;
+    }
+
+    .Cut02Bg {
+        background-image: url('../images/c02_bg_r_s.jpg');
+        background-color: #FEE2CD
+    }
+
+    .Cut03Bg {
+        background-image: url('../images/c03_bg_r_s.jpg');
+        background-color: #0D6D62;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Box {
+        background-image: url('../images/c01_bg02_s.jpg');
+    }
+
+    .Cut02Box {
+        background-image: url('../images/c02_bg02_s.jpg');
+    }
+
+    .Cut03Box {
+        background-image: url('../images/c03_bg02_s.jpg');
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Box .Part01 {
+        margin: 50px auto 60px auto;
+    }
+
+    .Cut01Box .Part02 {
+        margin: 60px auto 20px auto;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut02Box .GridBox {
+        margin: 40px auto 20px auto;
+    }
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut03Box .GridBox {
+        margin: 30px auto 60px auto;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MoreBtn {
+        right: 0;
+        bottom: 258px;
+        cursor: pointer;
+
+        max-width: 42px;
+    }
+
+    .TopBtn {
+        right: 12px;
+        bottom: 72px;
+
+        width: 11px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Footer {
+        padding: 12px 0;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 430px) {
+
+    .MenuBox {
+        margin: 322px 0 10px 0;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 390px) {
+
+    .MenuBox {
+        margin: 342px 0 10px 0;
+    }
+
+
+
+    /* ---------------------------------------------- */
+
+    .CutTitle {
+        font-size: 49px;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width: 350px) {
+
+    .MenuBox {
+        margin: 360px 0 0 0;
+    }
+
+
+    /* ---------------------------------------------- */
+
+    .CutTitle {
+        font-size: 47px;
+    }
+
+}

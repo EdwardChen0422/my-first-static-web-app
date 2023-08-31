@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>EVA SKY SHOP 母親節幸福有禮</title>
+	<meta name="keywords" content="長榮航空,免稅品,長榮航空免稅品預購網,EVA SKY SHOP,母親節,折扣優惠活動" />
+	<meta name="description" content="EVA SKY SHOP 母親節幸福有禮,2件79折 購物抽日本機票">
+
+	<!--分享-->
+	<meta property="og:title" content="EVA SKY SHOP 母親節幸福有禮"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content=""/>
+	<meta property="og:image" content="images/fb_share.jpg"/>
+	<meta property="og:description" content="EVA SKY SHOP 母親節幸福有禮,2件79折 購物抽日本機票"/>
+	<meta property="og:site_name" content=""/>
+
+	<!-- Bootstrap Core CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="css/full.css" rel="stylesheet">
+	<link href="css/menu_m.css" rel="stylesheet" type="text/css" />
+
+	<!-- wow anim -->
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<script src="js/wow.js"></script>
+	<script>
+		new WOW().init();
+	</script>
+	<script src="js/modernizr.custom.js"></script>
+	<script src="js/classie.js"></script>
+
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+	<div class="wrapper">
+			
+			<div id="p01">
+				<div class="pc">
+					<ul class="menu">
+						<li><a href="">繁</a> / <a href="notice_en.html">EN</a></li>
+					</ul>
+				</div>
+				
+				<!--menu_m-->
+				<button id="trigger-overlay" type="button" class="menu_m mob">選單</button> 
+
+				<img src="images/award_01.jpg" alt="母親節幸福有禮 購物抽日本機票中獎名單" class="pc">
+				<img src="images/award_01m.jpg" alt="母親節幸福有禮 購物抽日本機票中獎名單" class="mob">
+			</div>
+
+			<div id="p02">
+				<ul class="award">
+					<li>1.L** / C**NGTAN</li>
+					<li>2.C**N / S**MIN</li>
+				</ul>
+				<img src="images/award_02.png" alt="中獎名單" class="pc">
+				<img src="images/award_02m.png" alt="中獎名單" class="mob">
+			</div>
+			<div id="p03">
+				<img src="images/award_03.png" alt="獎項 日本航線經濟艙雙人來回機票2名">
+			</div>
+			<div id="p04">
+				<div class="tips">
+					<ul>
+						<li>中獎人須於2023年6月12日前與商品客服聯繫並回函相關兌獎資料，逾期視同放棄，不遞補缺額。</li>
+						<li>詳細兌獎規範，請參閱 <a href="index.html#p05">「母親節幸福有禮」之活動辦法</a>或聯絡長榮航空商品客服。<br>
+							服務時間：<br>
+							週一~週五早上9:00~12:00；下午2:00~5:00<br>
+							客服專線：0800-535-678；886-3-351-5936<br>
+							E-mail：shopping@evaair.com
+						</li>
+					</ul>
+				</div>
+			</div>
+			<footer>長榮航空股份有限公司台北分公司 統編：89282782<br>Copyright © 2023 EVA Airways Corp. 版權所有。</footer>
+	</div>
+
+<!--mobile menu-->
+<div class="overlay overlay-slidedown">
+	<button type="button" class="overlay-close">Close</button>
+	<nav>
+		<ul class="menu">
+			<li><a href="">繁</a> / <a href="notice_en.html">EN</a></li>
+		</ul>
+	</nav>	
+</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.js"></script>
+
+	<script src="js/menu_mobile.js"></script>
+	
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.js"></script>
+
+	<!-- 選單點選後自動收合 -->
+	<script>
+		$(function(){     
+			$('.overlay ul li a').on('click', function(){
+				$('.overlay-close').click();
+			});
+		
+		});
+	</script>
+
+	<!-- 滾動程式 -->
+	<script>
+		$(function(){
+			$('.btn_rule').click(function(){
+				$('> img', this).toggleClass("d-none");
+				$('#collapse').toggleClass("active");
+				setTimeout(function(){
+					$('html,body').animate({scrollTop:$('#p05').offset().top}, 300);
+				},300);
+			});
+		});
+	</script>
+
+</body>
+
+</html>

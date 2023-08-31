@@ -1,0 +1,461 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
+
+
+body {
+    font-family: 'Raleway', 'sans-serif', 'Microsoft JhengHei';
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #FFFFFF;
+}
+
+body a {
+    text-decoration: none;
+}
+
+ol, ul, li {
+    list-style: none;
+    box-sizing: border-box;
+}
+
+a, div, input, select, textarea {
+    box-sizing: border-box;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+h2 {
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin: 38px 0 12px 0;
+}
+
+
+.AutoImg {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.LoadingBox {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: #FFFFFF;
+}
+
+.LoadingInner {
+    width: 200px;
+    height: 180px;
+    position: relative;
+    
+    left: calc( 50% - 100px );
+    top: calc( 50% - 90px );
+    text-align: center;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.OutFrame {
+    width: 100%;
+    max-width: 1920px;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.InnerFrame { 
+    display: block;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.MainShowBox {
+    position: relative;
+    padding: 58px 0 30px 0;
+    background-image: url('../images/show01.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: #D6BFAD;
+    text-align: center;
+}
+
+.LogoBox {
+    width: 450px;
+    margin: 0 auto 52px auto;
+}
+.Logo img {
+    width: 100%; 
+    max-width: 450px;
+    height: auto;  
+}
+
+.MainTitleBox {
+    width: 84%;
+    max-width: 1000px;
+    margin: 0 auto;
+
+    /* background-image: url('images/aaa.svg');
+    background-repeat: no-repeat;
+    background-size: 90% auto; */
+}
+
+.MainTitleGif {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.MenuBox {
+    position: relative;
+    margin: 330px 0 20px 0;
+}
+
+.MenuBox .MenuGridBox {
+    display: flex;
+    width: 88%;
+    max-width: 1130px;
+    position: relative;
+    margin: 0 auto;
+
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.MenuBox .ItemBox {
+    width: 31%;
+    max-width: 292px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.MenuBox .ItemImg {
+    max-width: 292px;
+    margin: 0 auto 20px auto;
+}
+
+.MenuBox .ItemBtn {
+    display: none;
+    max-width: 250px;
+}
+
+.ItemImg, .ItemBtn {
+    width: 100%;
+    height: auto;
+}
+
+.Btn01 {
+    display: block;
+    width: 100%;
+    max-width: 250px;
+    height: 50px;
+    padding: 11px 0;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: #044B43;
+
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center; 
+
+    transition: all .9s;
+}
+
+.Btn01::before {
+    display: inline-block;
+    content: '';
+    width: 0;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.Btn01 b {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Btn01:hover {
+    background-color: #000000;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.GridBox {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 88%;
+    max-width: 1400px;
+    align-items:  center;
+    margin: 0 auto;
+
+    text-align: left;
+}
+
+.CutBgTop {
+    width: 1920px;
+    height: auto;
+    position: relative;
+    left: calc( 50% - 960px );
+}
+
+.CutTitle {
+    font-family: 'Tangerine', cursive;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.Chef {
+    font-size: 18px; 
+    font-weight: 500;
+    margin: 0 11px 0 0;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.MenuBg, .Cut01Bg, .Cut02Bg, .Cut03Bg {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.Cut01Bg, .Cut02Bg, .Cut03Bg {
+    background-repeat: repeat-y;
+    background-position: top center;
+}
+
+.Cut01Bg {
+    background-image: url('../images/c01_bg_r.jpg');
+}
+
+.Cut02Bg {
+    background-image: url('../images/c02_bg_r.jpg');
+}
+
+.Cut03Bg {
+    background-image: url('../images/c03_bg_r.jpg');
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.MenuBg, .Cut01Box, .Cut02Box, .Cut03Box {
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.MenuBg {
+    background-image: url('../images/bg01.jpg');
+}
+
+.Cut01Box {
+    background-image: url('../images/c01_bg02.jpg');
+}
+
+.Cut02Box {
+    background-image: url('../images/c02_bg02.jpg');
+}
+
+.Cut03Box {
+    background-image: url('../images/c03_bg02.jpg');
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.Cut01Box {
+    padding: 45px 0 0 0;
+    color: #FFFFFF;
+}
+
+.Cut01Box .GridBox {
+    margin: 2.5% auto 0 auto;
+}
+
+.Cut01Box .CutTitle {
+    color: #FFA980;
+}
+.Cut01Box h2, .Cut01Box .Chef {
+    color: #F4D8C2;
+}
+
+.Cut01Box .Part01 {
+    margin: 50px auto 0 auto;
+}
+    .Cut01Box .Part01 .GridPic {
+        flex: 8.1;
+    }
+    .Cut01Box .Part01 .GridTxt {
+        flex: 6;
+        padding: 0 0 0 40px; 
+    }
+
+
+.Cut01Box .Part02 {
+    margin: 20px auto 10px auto;
+}
+    .Cut01Box .Part02 .GridTxt {
+        flex: 1;
+        padding: 0 20px 0 0; 
+        order: 1;
+    }
+    .Cut01Box .Part02 .GridPic {
+        flex: 1;
+        order: 2;
+    }
+
+
+
+
+/* ---------------------------------------------- */
+
+.Cut02Box {
+    padding: 55px 0 0 0;
+    color: #000000;
+}
+
+    .Cut02Box .GridBox {
+        margin: 50px auto 20px auto;
+    }
+
+    .Cut02Box .CutTitle {
+        color: #4D2A1C;
+    }
+    .Cut02Box h2, .Cut02Box .Chef {
+        color: #044B43;
+    }
+
+    .Cut02Box .GridPic {
+        flex: 9;
+    }
+    .Cut02Box .GridTxt {
+        flex: 5;
+        padding: 55px 0 0 30px; 
+    }
+
+
+
+/* ---------------------------------------------- */
+
+.Cut03Box {
+    padding: 40px 0 20px 0;
+    color: #FFFFFF;
+}
+
+.Cut03Box .GridBox {
+    margin: 40px auto 40px auto;
+}
+
+    .Cut03Box .CutTitle {
+        color: #FEC485;
+    }
+    .Cut03Box h2, .Cut03Box .Chef {
+        color: #F4D8C2;
+    }
+
+
+    .Cut03Box .GridTxt {
+        flex: 6.5;
+        padding: 15px 20px 0 0; 
+        order: 1;
+    }
+    .Cut03Box .GridPic {
+        flex: 7.3;
+        order: 2;
+    }
+
+
+
+
+/* ---------------------------------------------- */
+
+.Footer {
+    width: 100%;
+    position: relative;
+    padding: 15px 0 15px 0;
+    margin: 0 auto;
+    background-color: #000000;
+
+    font-family: Raleway;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 24px;
+}
+
+
+
+
+/* ---------------------------------------------- */
+
+.TopBtnBox {
+    width: 100%;
+    max-width: 1920px;
+    position: fixed;
+    bottom: 0;
+    z-index: 999;
+}
+
+.MoreBtn {
+    position: absolute;
+    right: 0;
+    bottom: 328px;
+    cursor: pointer;
+
+    max-width: 95px; 
+    height: auto;
+}
+
+.TopBtn {
+    position: absolute;
+    right: 28px;
+    bottom: 82px;
+    cursor: pointer;
+
+    width: 14px;
+    height: auto;
+}

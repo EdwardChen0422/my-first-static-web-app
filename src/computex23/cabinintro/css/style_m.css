@@ -1,0 +1,213 @@
+
+
+@media screen and (max-width: 1280px) {
+
+    body {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Box .Part02 {
+        margin: 50px auto 10px auto;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .TopBtn {
+        right: 25px;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width: 992px) {
+
+    body {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MainShowBox {
+        background-image: url('../images/show01_m.jpg');
+        padding: 55px 0 25px 0;
+    }
+
+    .LogoBox {
+        width: 350px;
+        margin: 0 auto 48px auto;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MenuBox {
+        margin: 390px 0 20px 0;
+    }
+
+    .MenuBox .MenuGridBox {
+        width: 85%;
+    }
+
+    .MenuBox .ItemImg {
+        margin: 0 auto 12px auto;
+    }
+
+    .Btn01 {
+        height: 40px;
+        padding: 8px 0;
+        border-radius: 20px;
+
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .CutBgTop {
+        width: 1024px;
+        height: auto;
+        position: relative;
+        left: calc( 50% - 512px );
+    }
+
+    .CutTitle {
+        font-size: 85px;
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Box {
+        background-image: url('../images/c01_bg02_m.jpg');
+    }
+
+    .Cut02Box {
+        background-image: url('../images/c02_bg02_m.jpg');
+    }
+
+    .Cut03Box {
+        background-image: url('../images/c03_bg02_m.jpg');
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .GridBox {
+        display: block;
+        flex-wrap: wrap;
+        width: 72%;
+        max-width: 712px; 
+    }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut01Box {
+        padding: 50px 0 0 0;
+    }
+
+    .Cut01Box .Part01 {
+        margin: 50px auto 80px auto;
+    }
+
+        .Cut01Box .Part01 .GridPic {
+            padding: 0 8px; 
+        }
+
+        .Cut01Box .Part01 .GridTxt {
+            flex: 1;
+            padding: 0 0 0 0; 
+        }
+
+
+    .Cut01Box .Part02 {
+        margin: 80px auto 50px auto;
+    }
+
+        .Cut01Box .Part02 .GridTxt {
+            padding: 0 0 0 0; 
+        }
+
+        .Cut01Box .Part02 .GridPic {
+            padding: 5px 12px; 
+        }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut02Box .GridBox {
+        margin: 40px auto 60px auto;
+    }
+
+        .Cut02Box .GridTxt {
+            padding: 55px 0 0 0; 
+        }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .Cut03Box .GridBox {
+        margin: 40px auto 70px auto;
+    }
+
+        .Cut03Box .GridTxt {
+            padding: 15px 0 0 0; 
+        }
+
+        .Cut03Box .GridPic {
+            padding: 5px 18px;
+        }
+
+
+
+
+    /* ---------------------------------------------- */
+
+    .MoreBtn {
+        position: absolute;
+        right: 0;
+        bottom: 308px;
+        cursor: pointer;
+
+        max-width: 84px; 
+    }
+
+    .TopBtn {
+        right: 22px;
+        bottom: 76px;
+
+        width: 13px;
+    }
+
+}
