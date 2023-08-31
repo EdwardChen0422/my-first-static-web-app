@@ -1,0 +1,664 @@
+<site-list version="14">
+<created-by> 
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>11/05/2021 02:06:22</date-created>
+</created-by>
+<site url="10.3.5.182">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.3.12.118">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.3.12.117">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.3.12.119">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.3.12.111">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.71.7.201">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.71.7.202">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.71.7.203">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="10.71.7.204">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>	
+<site url="qafintweb01.evaair.com/netbase_C2/AFG0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFA0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFB0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFB1">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFD0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFE0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFF0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFFS">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFH0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFI0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFK0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFL1">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFP0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFR0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFT0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFTC">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/AFVR">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/HFG0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/SSEC">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>
+<site url="qafintweb01.evaair.com/netbase_C2/ZFG0">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+</site>	
+  <site url="unifinweb01prod.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="emdweb1.evaair.com">
+	  <compat-mode>Default</compat-mode>
+	  <open-in>IE11</open-in>
+  </site>
+  <site url="qaemdweb1.evaair.com">
+	  <compat-mode>Default</compat-mode>
+	  <open-in>IE11</open-in>
+  </site>
+  <site url="61.220.228.61">
+	  <compat-mode>Default</compat-mode>
+	  <open-in>IE11</open-in>
+  </site>
+  <site url="finweb02prod.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.3.148.110">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="60.250.233.163">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="220.128.239.67">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.boc.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="co.ebs.boc.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bpmdoc.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myevagroup.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myevagroupi.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  
+  <site url="dwweb05.evaair.com/EDWPortal/IBSR">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwweb06.evaair.com/EDWPortal/IBSR">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="edweva.evaair.com/EDWPortal/IBSR">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qadwweb11.evaair.com/EDWPortal/IBSR">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qaknweb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qauniecweb01.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="prewww.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="idcms01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="idcms02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="egasrfid1.egas.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  
+  <site url="qafpsweb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qafpsap01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="xraypic.evaair.com">
+	<compat-mode>Default</compat-mode> 
+	<open-in>IE11</open-in> 
+  </site>
+  <site url="temp3.caa.gov.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="acr.caa.gov.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="finegaswebprod.egas.com.tw/CFR1">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwolap12.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwweb02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="evaedw.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="finegaswebprod.egas.com.tw/fin">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.61.101.137">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="flowap1.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="flowap2.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="oadm1.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myappl1.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="jaac.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="egatrfid02.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dmsap.egat.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  
+  <site url="edw.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwbi02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwbi03.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dwbi05.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qadwbi13">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  
+  <site url="psnform01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  
+  <site url="psnform02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fpsweb2.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fpsweb3.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="faremanager.atpco.net">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv1sts1">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv1sts2">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv2sts1">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv2sts2">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv2sts3">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lv2sts4">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>  
+  <site url="desktop.amadeusri.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sms02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="skjweb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fpsap02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fpsap03.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fpsweb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="apssweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="aciweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="afdsweb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="uniupwsweb.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="uniefmsweb.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lmsweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bipweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="gsoweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="iabsweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bsrsweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ppmsweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ambsweb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="uniambsweb.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="eva_log8000.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="kb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="kb01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="kb02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ituhd.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="imdkb.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="evaccap.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="cargoplus01.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="knweb02.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="unipsnweb.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qaunipsnweb.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="wbclsb04prod.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="finevft.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="unifinwebprod.uniair.com.tw">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="evaflow.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="evaflowin.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mydoc.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myevai.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myeva.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sesc.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="host">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="host.evaair.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="iams.evaair.com">
+	<compat-mode>Default</compat-mode>
+	<open-in>IE11</open-in>
+  </site>
+
+  <site url="emdfile/emd/EMD/My%20EMD/-REV-GREEN/%E9%A6%96%E9%A0%81.html">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/ftd">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_787">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox_787">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_787">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_787iat/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_787iat/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox_787iat/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_explorer">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox_explorer">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_explorer">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_explorer/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/toolbox_explorer/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_explorer/authoring/getFragment.html">
+    <compat-mode>IE9</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/psds">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="app.myboeingfleet.com/psds">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/psds">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="nonboeing-toolbox.boeing.com/toolbox_nb">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="nonboeing-toolbox.boeing.com/toolbox_uat">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="nonboeing-toolbox.boeing.com/toolbox_sso_nb">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="nonboeing-toolbox.boeing.com/toolbox_sso_uat">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_nb">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_nb">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/toolbox_nb_uat">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/toolbox_nb_uat">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.com/PSAML/idp/startSSO.ping">
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myboeingfleet.boeing.com/PSAML/idp/startSSO.ping">
+    <open-in>IE11</open-in>
+  </site>
+  <shared-cookie domain=".myboeingfleet.com" name="XOTSSOCookie"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="XOTSSOCookie"></shared-cookie>
+  <shared-cookie domain=".myboeingfleet.com" name="BOEINGPARTNER"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="BOEINGPARTNER"></shared-cookie>
+  <shared-cookie domain=".myboeingfleet.com" name="WSSO_AZN_UID"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="WSSO_AZN_UID"></shared-cookie>
+  <shared-cookie domain=".myboeingfleet.com" name="http_logged_on"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="http_logged_on"></shared-cookie>
+  <shared-cookie domain=".myboeingfleet.com" name="BoeingCIEProdSSGRP"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="BoeingCIEProdSSGRP"></shared-cookie>
+  <shared-cookie domain=".myboeingfleet.com" name="OptanonAlertBoxClosed"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="OptanonAlertBoxClosed"></shared-cookie>
+  <shared-cookie domain=".boeing.com" name="L7Session"></shared-cookie>
+</site-list>
